@@ -4,11 +4,16 @@ Estudante de Desenvolvimento de Sistemas e Engenharia de Computação
 
 ---
 
-### 🚀 Sobre mim
+### 📚 Formação Acadêmica
 
-Estudante de Engenharia de Computação - Univesp
-Atualmente cursando Desenvolvimento de Sistemas na Etec
-Graduado em Análise e Desenvolvimento de Sistemas
+Graduação
+•	Bacharelado em Engenharia de Computação - Univesp (2025 – Em curso)
+•	Tecnólogo em Análise e Desenvolvimento de Sistemas – Fatec SP (2021 – 2024)
+
+Técnico
+•	Técnico em Desenvolvimento de Sistemas (EaD) – Centro Paula Souza (2026 - Em curso)
+•	Especialização Técnica em Gestão de Projetos (EaD) – Centro Paula Souza (2024)
+•	Técnico em Administração – Etec Parque da Juventude (2020 – 2021)
 
 ---
 
@@ -20,7 +25,7 @@ Graduado em Análise e Desenvolvimento de Sistemas
 
 ---
 
-### 📬 Conecte-se comigo
+### 📬 Meus contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-de-oliveira-26091721b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodeoliveira8000@gmail.com)
