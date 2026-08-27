@@ -1,4 +1,4 @@
-### Leandro de Oliveira ### 
+### Olá! Eu sou Leandro de Oliveira👋 ### 
 
 ### 🛠️ Sobre Mim
 Sou Analista de Infraestrutura Júnior, graduado em Análise e Desenvolvimento de Sistemas pela Fatec-SP, com formação técnica em Administração e Especialização Técnica em Gestão de Projetos pela Etec. Atualmente, curso Bacharelado em Engenharia de Computação pela Univesp e Técnico em Desenvolvimento de Sistemas pela Etec. Tenho experiência em suporte técnico, Service Desk e infraestrutura de TI, buscando aprimorar continuamente meus conhecimentos e contribuir com soluções tecnológicas eficientes.
