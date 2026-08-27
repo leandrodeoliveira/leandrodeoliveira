@@ -1,8 +1,8 @@
-# Olá! Eu sou Leandro de Oliveira 👋
+### Leandro de Oliveira ### 
 
-Estudante de Desenvolvimento de Sistemas e Engenharia de Computação
+### 🛠️ Sobre Mim
 
----
+
 
 ### 📚 Formação Acadêmica
 
