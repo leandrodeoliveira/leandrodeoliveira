@@ -9,6 +9,7 @@ Estudante de Desenvolvimento de Sistemas e Engenharia de Computação
 **Graduação**
 
 •	Bacharelado em Engenharia de Computação - Univesp (2025 – Em curso)
+
 •	Tecnólogo em Análise e Desenvolvimento de Sistemas – Fatec SP (2021 – 2024)
 
 
@@ -17,7 +18,9 @@ Estudante de Desenvolvimento de Sistemas e Engenharia de Computação
 **Técnico**
 
 •	Técnico em Desenvolvimento de Sistemas (EaD) – Centro Paula Souza (2026 - Em curso)
+
 •	Especialização Técnica em Gestão de Projetos (EaD) – Centro Paula Souza (2024)
+
 •	Técnico em Administração – Etec Parque da Juventude (2020 – 2021)
 
 ---
