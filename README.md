@@ -30,17 +30,17 @@ Atualmente estou direcionando minha carreira para as áreas de Dados e Business 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-thepowerbi&logoColor=black
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-thepowerbi&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7-the-badge&logo=javascript&logoColor=black
+![JavaScript](https://img.shields.io/badge/JavaScript-F7-the-badge&logo=javascript&logoColor=black)
 
-![HTML5](https://img.shields/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+![HTML5](https://img.shields/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3or=white
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3or=white)
 
 ---
 
