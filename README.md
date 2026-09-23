@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leandro de Oliveira👋 ### 
 
 ### 🛠️ Sobre Mim
-Sou Analista de Infraestrutura Jr., graduado em Análise e Desenvolvimento de Sistemas pela FATEC-SP e estudante de Ciência de Dados na UNIVESP. Também curso Técnico em Desenvolvimento de Sistemas pelo Centro Paula Souza, complementando meus conhecimentos em desenvolvimento de software, banco de dados e tecnologia.
+Sou Analista de Infraestrutura Jr, graduado em Análise e Desenvolvimento de Sistemas pela FATEC-SP e estudante de Ciência de Dados na UNIVESP. Também curso Técnico em Desenvolvimento de Sistemas pelo Centro Paula Souza, complementando meus conhecimentos em desenvolvimento de software, banco de dados e tecnologia.
 
 Tenho experiência em suporte técnico, Service Desk e infraestrutura de TI, atuando na resolução de incidentes, suporte a usuários e gestão de ambientes tecnológicos.
 
