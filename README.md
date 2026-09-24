@@ -14,7 +14,7 @@ Atualmente estou direcionando minha carreira para as áreas de Dados e Business 
 
 **Graduação**
 
-•	Bacharelado em Ciência de Dados - UNIVESP (2025 – 2028)
+•	Bacharelado em Ciência de Dados - UNIVESP (2025 – 2029)
 
 •	Tecnólogo em Análise e Desenvolvimento de Sistemas – FATEC SP (2021 – 2024)
 
